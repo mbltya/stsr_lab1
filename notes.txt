@@ -1,2 +1,3 @@
 Learning Git commands.
 Commands: init, status, add, commit, log.
+Chandes made from the second account.
