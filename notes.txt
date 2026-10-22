@@ -1,1 +1,2 @@
 Learning Git commands.
+Commands: init, status, add, commit, log.
